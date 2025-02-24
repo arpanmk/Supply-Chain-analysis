@@ -1,2 +1,2 @@
 # Supply-Chain-analysis
-This a analytical report on Atliqmart supply-chain process.
+This an analytical report on Atliqmart supply-chain process.
