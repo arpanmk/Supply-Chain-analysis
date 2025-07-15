@@ -95,4 +95,4 @@ Users can filter by:
 
 1. Clone the repo:
    ```bash
-   https://app.powerbi.com/groups/me/reports/fd474799-75e8-468e-8230-db7722d4cd91/d4e3bd258d21b5708869?experience=power-bi
+   https://github.com/arpanmk/Supply-Chain-analysis
